@@ -3,8 +3,7 @@
 <h1></h1>
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DaniEnsi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=656d78&custom_title=BitStore's GitHub Stats">
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DaniEnsi&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&icon_color=656d78&custom_title=BitStore's%20GitHub%20Stats">
 
 ### Hi there 👋,
 BitStore is an open community, so feel free to DM on <a href="https://google.com">Discord</a>. This Community is focused on developing custom discord tools, or other tools utalizing python, C#, etc. All Tools are free to use, but are Licenced under the GNU General Public License. If you want to contribute, you can also file a pull request or fork it.  
