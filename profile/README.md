@@ -8,7 +8,7 @@
 ### Hi there 👋,
 BitStore is open to new members to join the community, so feel free to send a DM on <a href="https://twitter.com/dani_duese">Twitter</a> if you are interested. This Community is focused on developing custom discord tools, or other tools utilizing python, C#, etc. All Tools are free to use, but are licenced under the GNU General Public License. If you wish to contribute, you can also generate a pull request or fork it.  
 
-![BitStore's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DaniEnsi&hide_border=true&bg_color=22272e&color=adbac7&line=656d78&custom_title=BitStore's%20Contribution%20Graph&points=adbac7")
+![BitTools](https://i.vgy.me/xtTWgH.png)
 
 ### Please give Credit when using our code as we spent a lot of time creating it...
 
